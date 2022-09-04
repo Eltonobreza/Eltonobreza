@@ -19,6 +19,7 @@
 
 ## Where can you find me 👽
 
-![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-nobreza-67029ab5/)
 
 <br>
+
